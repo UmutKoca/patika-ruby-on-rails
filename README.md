@@ -1,4 +1,4 @@
-# Patika.dev ve Protein İşbirliğinde Verilen Ruby On Rails Eğitimi Uygulama ve Ödev Kodları
+# Patika.dev ve Protein İşbirliğiyle verilen Ruby On Rails eğitimi uygulama ve ödev kodları
 
 Eğitim Planı:
 
